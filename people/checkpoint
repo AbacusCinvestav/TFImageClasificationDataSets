@@ -1,0 +1,2 @@
+model_checkpoint_path: "people-model"
+all_model_checkpoint_paths: "people-model"
